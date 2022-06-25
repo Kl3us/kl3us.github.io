@@ -17,13 +17,13 @@
           <key>kind</key>
           <string>display-image</string>
           <key>url</key>
-          <string>https://github.com/iosoyunclub/anasayfa/icons/SiteIcon.png</string>
+          <string>https://github.com/kl3us/anasayfa/icons/SiteIcon.png</string>
         </dict>
         <dict>
           <key>kind</key>
           <string>full-size-image</string>
           <key>url</key>
-          <string>https://iosoyunclub.github.io/uygulamalar/icons/Minecraft.png</string>
+          <string>https://kl3us.github.io/uygulamalar/icons/Minecraft.png</string>
         </dict>
       </array>
       <key>metadata</key>
